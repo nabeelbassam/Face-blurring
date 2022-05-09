@@ -1,4 +1,4 @@
-# Face Bluring project
+# Face blurring  project
 
 The main objective of this project is to blur faces in a given picture if found, In order to blur faces shown in images, you need to first detect these faces and their position in the image then blur the detected faces.
 
